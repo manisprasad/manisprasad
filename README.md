@@ -54,15 +54,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=manisprasad&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manisprasad&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-## 🌱 I’m currently learning
-
-- Advanced Backend (Spring Boot, Node.js)
-- System Design
-- Cloud (AWS & Docker)
-
 ---
 
 ⭐️ Don't forget to star your favorite projects!
